@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Addons/VRTK/Examples/[006 - Locomotion] MovementTypes.unity
+- path: Assets/Addons/VRTK/LegacyExampleFiles/017_CameraRig_TouchpadWalking.unity
   isLoaded: 1
   isActive: 1
